@@ -1,13 +1,13 @@
 #UniCafe Website Assestment
 ```
-{
-  "firstName": "Roberto",
-  "lastName": "Mejia",
-  "age": 32
-}
+
+  firstName: Roberto,
+  lastName: Mejia,
+  age: 32
+
 ```
 
-##README
+#README
 
 >This is a README file for my GitHub repository. It provides a brief overview of the project, including its purpose, features, and installation instructions.
 
@@ -42,11 +42,11 @@
 ####To install this project, follow these steps:
 
 1. Clone the repository:
-- git clone https://github.com/<R7 Mejia>/<gi>.git
+- git clone https://github.com/<R7Mejia-https://github.com/R7Mejia/UniCafe--SBA-307>
 2. Install the dependencies:
 - using the terminal on VS Code
 
->I guess there should be a lot of information included here, but, alas guys, I don't really know how to do this. **Could you both teach us at an office hour how to create these Readme's?** Based on what I read, ths are very used by the companies *(I am thinking I'll would need this as a professional).*
+>I guess there should be a lot of information included here, but, alas guys, I don't really know how to do this. **Could you both teach us at an office hour how to create these Readme's?** Based on what I read, these are very used by the companies *(I am thinking I would need this as a professional).*
 
 #Contributing
 
